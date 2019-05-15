@@ -1,2 +1,2 @@
 # SpringBootAngular
-Sample project with spring boot and angular 
+Sample project with spring boot and angular .
